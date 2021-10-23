@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson10-filter-objects-in-array-and-print-out",
+  "version": "1.0.0",
+  "description": "Remember a return at the end of factory function! Filter objects from array and print out.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "filter"
+  ]
+}
